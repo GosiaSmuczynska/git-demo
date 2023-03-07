@@ -15,3 +15,5 @@ sdfd
 
 
 nowe zmiany
+
+dodaje zmiany do usuniecia
